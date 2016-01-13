@@ -1,6 +1,6 @@
 {
   "name": "enrich-csv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "adds extra columns to a csv file from another csv file",
   "main": "index.js",
   "scripts": {
